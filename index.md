@@ -7,13 +7,17 @@ layout: home
 
 With over twenty years in education and technical spaces, I am passionate about learning and using technology to support impactful outcomes. Education is the most powerful tool to improve lives and end cycles of poverty, and using technology in a human-centered way my role is to amplify the hard work of educators and learners with the right tools and strategies for long term and big picture success.
 
-<section>
+<aside>
+
 ### Connections
+
 - <a href="mailto:hello@summerlin.co">Email</a>
 - <a href="https://linkedin.com/in/dannysummerlin">LinkedIn</a>
 - <a href="https://github.com/dannysummerlin">GitHub</a>
 - <a href="https://vsco.com/-summerlin">VSCO</a>
+
 ### Skills
+
 - Strategic Planning
 - Department Collaboration and Management
 - Active Directory Management
@@ -26,16 +30,21 @@ With over twenty years in education and technical spaces, I am passionate about 
 	- JavaScript, PHP, PowerShell, Python, Ruby, Apex
 	- MySQL, PostgreSQL
 	- Salesforce Flow, Microsoft Power Automate, Power BI/Dataflows
+
 ### Education and Accomplishments
 	- <a href="https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh">Salesforce Navigator for Lightning</a>, extension used by approx. 8k people
 	- Jake Benesh Outstanding Service Award, 2015
 	- Bachelors, Comparative Religion - University of Florida, 2005
+
 ### Conference Presentations
+
 - <a href="/presentations/Data Privacy Workshop.pdf">Data Privacy Workshop</a> in conjuction with the <a href="https://lawyersclearinghouse.org/">Lawyers Clearinghouse</a>
 - <a href="/presentations/NED2019 Presentation.pdf">Knowing what you Know</a> for <a href="https://northeastdreamin.com/">Northeast Dreamin</a> in 2019
 - <a href="/presentations/NED2018 Presentation.pdf">Modernizing Our Salesforce</a> for <a href="https://northeastdreamin.com/">Northeast Dreamin</a> in 2018
-</section>
+
+</aside>
 <article>
+
 ### Work Experience
 
 #### Associate Director of Technology
