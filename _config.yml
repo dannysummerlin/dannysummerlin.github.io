@@ -34,7 +34,7 @@ url: "https://summerlin.co" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 remote_theme: dannysummerlin/some-style-please
-# markdown: kramdown
+markdown: kramdown
 plugins:
   - jekyll-feed
 
