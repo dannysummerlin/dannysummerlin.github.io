@@ -3,6 +3,7 @@ entries:
     url: /
   - title: econ
     url: /economics
+  - title: page list eventually
   - title: all pages
     post_list:
       limit: 15
