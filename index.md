@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Hello, I'm Danny
 intro: >
 	## I like to build things that make the world a better place
