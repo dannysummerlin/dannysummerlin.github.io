@@ -1,7 +1,9 @@
 entries:
   - title: home
     url: /
-  - title: all posts
+  - title: econ
+    url: /economics
+  - title: all pages
     post_list:
       limit: 15
       show_more: true
