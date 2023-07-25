@@ -17,61 +17,61 @@ _Copyright 1923 by Kahlil Gibran
 All rights reserved. No part of this book may be reproduced in any form without permission in writing from the publisher, except by a reviewer who may quote brief passages or reproduce not more than three illustrations in a review to be printed in a magazine or newspaper.  
 Published September 1923_
 
-[The Coming of the Ship](#link7)
+[The Coming of the Ship](The Coming of the Ship)
 
-[On Love](#link15)
+[On Love](/the-prophet/On Love)
 
-[On Marriage](#link19)
+[On Marriage](/the-prophet/On Marriage)
 
-[On Children](#link21)
+[On Children](/the-prophet/On Children)
 
-[On Giving](#link23)
+[On Giving](/the-prophet/On Giving)
 
-[On Eating and Drinking](#link27)
+[On Eating and Drinking](/the-prophet/On Eating and Drinking)
 
-[On Work](#link30)
+[On Work](/the-prophet/On Work)
 
-[On Joy and Sorrow](#link35)
+[On Joy and Sorrow](/the-prophet/On Joy and Sorrow)
 
-[On Houses](#link37)
+[On Houses](/the-prophet/On Houses)
 
-[On Clothes](#link41)
+[On Clothes](/the-prophet/On Clothes)
 
-[On Buying and Selling](#link43)
+[On Buying and Selling](/the-prophet/On Buying and Selling)
 
-[On Crime and Punishment](#link45)
+[On Crime and Punishment](/the-prophet/On Crime and Punishment)
 
-[On Laws](#link51)
+[On Laws](/the-prophet/On Laws)
 
-[On Freedom](#link54)
+[On Freedom](/the-prophet/On Freedom)
 
-[On Reason and Passion](#link57)
+[On Reason and Passion](/the-prophet/On Reason and Passion)
 
-[On Pain](#link60)
+[On Pain](/the-prophet/On Pain)
 
-[On Self-Knowledge](#link62)
+[On Self-Knowledge](/the-prophet/On Self-Knowledge)
 
-[On Teaching](#link64)
+[On Teaching](/the-prophet/On Teaching)
 
-[On Friendship](#link66)
+[On Friendship](/the-prophet/On Friendship)
 
-[On Talking](#link68)
+[On Talking](/the-prophet/On Talking)
 
-[On Time](#link70)
+[On Time](/the-prophet/On Time)
 
-[On Good and Evil](#link72)
+[On Good and Evil](/the-prophet/On Good and Evil)
 
-[On Prayer](#link76)
+[On Prayer](/the-prophet/On Prayer)
 
-[On Pleasure](#link79)
+[On Pleasure](/the-prophet/On Pleasure)
 
-[On Beauty](#link83)
+[On Beauty](/the-prophet/On Beauty)
 
-[On Religion](#link87)
+[On Religion](/the-prophet/On Religion)
 
-[On Death](#link90)
+[On Death](/the-prophet/On Death)
 
-[The Farewell](#link92)
+[The Farewell](The Farewell)
 
 * * *
 
@@ -204,47 +204,6 @@ And he answered,
 
 People of Orphalese, of what can I speak save of that which is even now moving within your souls?
 
-----------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Illustration:](images/0083.jpg)](images/0083.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Illustration:](images/0100.jpg)](images/0100.jpg)
-
-
-
-
-
-
-
-
-
-
-
-[![Illustration:](images/0134.jpg)](images/0134.jpg)
 
 \*\*\* END OF THE PROJECT GUTENBERG EBOOK THE PROPHET \*\*\*
 
