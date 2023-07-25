@@ -27,7 +27,8 @@ email: hello@summerlin.co
 description: >- # this means to ignore newlines until "baseurl:"
   Home of Salesforce Navigator, Power BI Navigator, and random stuff
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:slug
+url: "https://summerlin.co" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -36,6 +37,10 @@ remote_theme: dannysummerlin/some-style-please
 # markdown: kramdown
 plugins:
   - jekyll-feed
+
+defaults:
+  values:
+    layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
