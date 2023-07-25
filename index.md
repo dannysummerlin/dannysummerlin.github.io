@@ -32,9 +32,9 @@ intro: >
 
 ### Education and Accomplishments
 
-	- <a href="https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh">Salesforce Navigator for Lightning</a>, extension used by approx. 8k people
-	- Jake Benesh Outstanding Service Award, 2015
-	- Bachelors, Comparative Religion - University of Florida, 2005
+- <a href="https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh">Salesforce Navigator for Lightning</a>, extension used by approx. 8k people
+- Jake Benesh Outstanding Service Award, 2015
+- Bachelors, Comparative Religion - University of Florida, 2005
 
 ### Conference Presentations
 
