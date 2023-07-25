@@ -7,7 +7,7 @@ layout: home
 
 With over twenty years in education and technical spaces, I am passionate about learning and using technology to support impactful outcomes. Education is the most powerful tool to improve lives and end cycles of poverty, and using technology in a human-centered way my role is to amplify the hard work of educators and learners with the right tools and strategies for long term and big picture success.
 
-<aside>
+<div style="display: grid;grid-area: sidebar;">
 
 ### Connections
 
@@ -42,7 +42,7 @@ With over twenty years in education and technical spaces, I am passionate about 
 - <a href="/presentations/NED2019 Presentation.pdf">Knowing what you Know</a> for <a href="https://northeastdreamin.com/">Northeast Dreamin</a> in 2019
 - <a href="/presentations/NED2018 Presentation.pdf">Modernizing Our Salesforce</a> for <a href="https://northeastdreamin.com/">Northeast Dreamin</a> in 2018
 
-</aside>
+</div>
 <article>
 
 ### Work Experience
