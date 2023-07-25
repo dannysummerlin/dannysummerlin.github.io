@@ -1,13 +1,17 @@
 ---
 layout: home
 ---
+<div style="grid-area: main;display: grid;">
+
 # Hello, I'm Danny
 
 ## I like to build things that make the world a better place
 
 With over twenty years in education and technical spaces, I am passionate about learning and using technology to support impactful outcomes. Education is the most powerful tool to improve lives and end cycles of poverty, and using technology in a human-centered way my role is to amplify the hard work of educators and learners with the right tools and strategies for long term and big picture success.
 
-<div style="display: grid;grid-area: sidebar;">
+</div>
+
+<aside>
 
 ### Connections
 
@@ -32,6 +36,7 @@ With over twenty years in education and technical spaces, I am passionate about 
 	- Salesforce Flow, Microsoft Power Automate, Power BI/Dataflows
 
 ### Education and Accomplishments
+
 	- <a href="https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh">Salesforce Navigator for Lightning</a>, extension used by approx. 8k people
 	- Jake Benesh Outstanding Service Award, 2015
 	- Bachelors, Comparative Religion - University of Florida, 2005
@@ -42,7 +47,8 @@ With over twenty years in education and technical spaces, I am passionate about 
 - <a href="/presentations/NED2019 Presentation.pdf">Knowing what you Know</a> for <a href="https://northeastdreamin.com/">Northeast Dreamin</a> in 2019
 - <a href="/presentations/NED2018 Presentation.pdf">Modernizing Our Salesforce</a> for <a href="https://northeastdreamin.com/">Northeast Dreamin</a> in 2018
 
-</div>
+</aside>
+
 <article>
 
 ### Work Experience
@@ -72,4 +78,5 @@ With over twenty years in education and technical spaces, I am passionate about 
 
 *   Returned to Warner to manage the IT helpdesk; oversaw team of student workers and helpdesk technician; collaborated with wider technology team to implement solutions and train staff
 *   Standardized user hardware lifecycle; assisted in budget planning and strategic plan development; worked with professors to identify problems and solutions to support teaching
+
 </article>
