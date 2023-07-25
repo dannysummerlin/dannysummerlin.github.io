@@ -1,10 +1,7 @@
 ---
 layout: home
 title: Hello, I'm Danny
-intro: |
-	## I like to build things that make the world a better place
-
-	With over twenty years in education and technical spaces, I am passionate about learning and using technology to support impactful outcomes. Education is the most powerful tool to improve lives and end cycles of poverty, and using technology in a human-centered way my role is to amplify the hard work of educators and learners with the right tools and strategies for long term and big picture success.
+intro: With over twenty years in education and technical spaces, I am passionate about learning and using technology to support impactful outcomes. Education is the most powerful tool to improve lives and end cycles of poverty, and using technology in a human-centered way my role is to amplify the hard work of educators and learners with the right tools and strategies for long term and big picture success.
 ---
 <aside markdown="1">
 

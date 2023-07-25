@@ -1,4 +1,6 @@
 ---
+title: Economics from First Principles
+intro: test text
 ---
 #### Intro
 
