@@ -11,7 +11,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:slug
 url: "https://summerlin.co" # the base hostname & protocol for your site, e.g. http://example.com
-categories: [the-prophect, technology, culture]
+categories:
+  - the-prophet
+  - technology
+  - culture
+# collections:
+#   - meanderings
+#   - the-prophet
 
 # Build settings
 remote_theme: dannysummerlin/some-style-please
