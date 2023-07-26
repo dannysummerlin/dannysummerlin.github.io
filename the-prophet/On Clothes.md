@@ -1,3 +1,7 @@
+---
+title: On Clothes
+category: the-prophet
+---
 And the weaver said, Speak to us of **_Clothes_**.
 
 And he answered:

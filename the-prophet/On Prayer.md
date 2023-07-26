@@ -1,3 +1,7 @@
+---
+title: On Prayer
+category: the-prophet
+---
 Then a priestess said, Speak to us of **_Prayer_**.
 
 And he answered, saying:

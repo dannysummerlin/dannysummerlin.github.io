@@ -1,3 +1,7 @@
+---
+title: On Houses
+category: the-prophet
+---
 Then a mason came forth and said, Speak to us of **_Houses_**.
 
 And he answered and said:

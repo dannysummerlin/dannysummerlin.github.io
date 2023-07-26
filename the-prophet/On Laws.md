@@ -1,3 +1,7 @@
+---
+title: On Laws
+category: the-prophet
+---
 Then a lawyer said, But what of our **_Laws_**, master?
 
 And he answered:

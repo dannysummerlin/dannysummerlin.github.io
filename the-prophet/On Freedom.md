@@ -1,3 +1,7 @@
+---
+title: On Freedom
+category: the-prophet
+---
 And an orator said, Speak to us of **_Freedom_**.
 
 And he answered:

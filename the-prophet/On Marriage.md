@@ -1,3 +1,7 @@
+---
+title: On Marriage
+category: the-prophet
+---
 Then Almitra spoke again and said, And what of **_Marriage_** master?
 
 And he answered saying:

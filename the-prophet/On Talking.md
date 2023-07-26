@@ -1,3 +1,7 @@
+---
+title: On Talking
+category: the-prophet
+---
 And then a scholar said, Speak of **_Talking_**.
 
 And he answered, saying:

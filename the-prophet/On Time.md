@@ -1,3 +1,7 @@
+---
+title: On Time
+category: the-prophet
+---
 And an astronomer said, Master, what of **_Time_**?
 
 And he answered:

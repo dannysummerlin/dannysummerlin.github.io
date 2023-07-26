@@ -1,3 +1,7 @@
+---
+title: On Reason and Passion
+category: the-prophet
+---
 And the priestess spoke again and said: Speak to us of **_Reason and Passion_**.
 
 And he answered, saying:

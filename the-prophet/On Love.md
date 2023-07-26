@@ -1,3 +1,7 @@
+---
+title: On Love
+category: the-prophet
+---
 Then said Almitra, Speak to us of **_Love_**.
 
 And he raised his head and looked upon the people, and there fell a stillness upon them. And with a great voice he said:

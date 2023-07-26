@@ -1,3 +1,7 @@
+---
+title: On Beauty
+category: the-prophet
+---
 And a poet said, Speak to us of **_Beauty_**.
 
 And he answered:

@@ -1,3 +1,7 @@
+---
+title: On Buying and Selling
+category: the-prophet
+---
 And a merchant said, Speak to us of **_Buying and Selling_**.
 
 And he answered and said:

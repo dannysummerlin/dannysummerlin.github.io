@@ -1,3 +1,7 @@
+---
+title: On Good and Evil
+category: the-prophet
+---
 And one of the elders of the city said, Speak to us of **_Good and Evil_**.
 
 And he answered:

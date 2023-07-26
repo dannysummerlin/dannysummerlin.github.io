@@ -1,3 +1,7 @@
+---
+title: On Crime and Punishment
+category: the-prophet
+---
 Then one of the judges of the city stood forth and said, Speak to us of **_Crime and Punishment_**.
 
 And he answered, saying:

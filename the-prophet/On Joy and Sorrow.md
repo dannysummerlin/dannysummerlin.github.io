@@ -1,3 +1,7 @@
+---
+title: On Joy and Sorrow
+category: the-prophet
+---
 Then a woman said, Speak to us of **_Joy and Sorrow_**.
 
 And he answered:

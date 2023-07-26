@@ -1,3 +1,7 @@
+---
+title: On Teaching
+category: the-prophet
+---
 Then said a teacher, Speak to us of **_Teaching_**.
 
 And he said:

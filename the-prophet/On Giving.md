@@ -1,3 +1,7 @@
+---
+title: On Giving
+category: the-prophet
+---
 Then said a rich man, Speak to us of **_Giving_**.
 
 And he answered:

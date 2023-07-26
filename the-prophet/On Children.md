@@ -1,3 +1,7 @@
+---
+title: On Children
+category: the-prophet
+---
 And a woman who held a babe against her bosom said, Speak to us of **_Children_**.
 
 And he said:

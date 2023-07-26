@@ -1,3 +1,7 @@
+---
+title: On Friendship
+category: the-prophet
+---
 And a youth said, Speak to us of **_Friendship_**.
 
 And he answered, saying:

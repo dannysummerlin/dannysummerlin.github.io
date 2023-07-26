@@ -1,3 +1,7 @@
+---
+title: On Work
+category: the-prophet
+---
 Then a ploughman said, Speak to us of **_Work_**.
 
 And he answered, saying:

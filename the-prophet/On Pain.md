@@ -1,3 +1,7 @@
+---
+title: On Pain
+category: the-prophet
+---
 And a woman spoke, saying, Tell us of **_Pain_**.
 
 And he said:

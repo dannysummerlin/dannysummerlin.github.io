@@ -1,3 +1,7 @@
+---
+title: On Self-Knowledge
+category: the-prophet
+---
 And a man said, Speak to us of **_Self-Knowledge_**.
 
 And he answered, saying:

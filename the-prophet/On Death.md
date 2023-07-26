@@ -1,3 +1,7 @@
+---
+title: On Death
+category: the-prophet
+---
 Then Almitra spoke, saying, We would ask now of **_Death_**.
 
 And he said:
