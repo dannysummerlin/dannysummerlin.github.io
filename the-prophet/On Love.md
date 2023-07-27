@@ -1,6 +1,7 @@
 ---
 title: On Love
 category: the-prophet
+order: 2
 ---
 Then said Almitra, Speak to us of **_Love_**.
 

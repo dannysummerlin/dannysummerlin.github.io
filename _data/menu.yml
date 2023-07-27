@@ -5,9 +5,13 @@ entries:
     url: /economics
   - title: the prophet
     url: /the-prophet
+  - title: all pages
+    page_list:
+      order: asc
   - title: the prophet chapters
     page_list:
       category: the-prophet
+      order: asc
   - title: all pages
     post_list:
       limit: 15
