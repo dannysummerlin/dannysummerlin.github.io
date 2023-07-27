@@ -15,10 +15,6 @@ categories:
   - the-prophet
   - technology
   - culture
-# collections:
-#   - meanderings
-#   - the-prophet
-
 # Build settings
 remote_theme: dannysummerlin/some-style-please
 markdown: kramdown

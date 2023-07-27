@@ -1,5 +1,6 @@
 ---
 title: Economics from First Principles
+category: culture
 ---
 #### Intro
 
