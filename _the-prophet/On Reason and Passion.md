@@ -1,6 +1,7 @@
 ---
 title: On Reason and Passion
 category: the-prophet
+order: 15
 ---
 And the priestess spoke again and said: Speak to us of **_Reason and Passion_**.
 

@@ -1,6 +1,7 @@
 ---
 title: On Buying and Selling
 category: the-prophet
+order: 11
 ---
 And a merchant said, Speak to us of **_Buying and Selling_**.
 

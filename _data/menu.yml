@@ -5,21 +5,11 @@ entries:
     url: /economics
   - title: the prophet
     url: /the-prophet
-  - title: all pages
-    page_list:
-      order: asc
   - title: the prophet chapters
-    page_list:
-      category: the-prophet
-      order: asc
-  - title: all pages
-    post_list:
-      limit: 15
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-  - title: rss
-    url: feed.xml
+    collection_list:
+      collection: the-prophet
+      order_by: order
+      sort_order: asc
   - title: projects
     entries:
       - title: Salesforce Navigator for Lightning

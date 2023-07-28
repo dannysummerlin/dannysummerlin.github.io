@@ -15,6 +15,10 @@ categories: ["the-prophet", "technology", "culture"]
 # Build settings
 remote_theme: dannysummerlin/some-style-please
 markdown: kramdown
+collections:
+  the-prophet:
+    output: true
+    sort_by: order
 plugins:
   - jekyll-feed
 

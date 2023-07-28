@@ -1,6 +1,7 @@
 ---
 title: On Giving
 category: the-prophet
+order: 5
 ---
 Then said a rich man, Speak to us of **_Giving_**.
 

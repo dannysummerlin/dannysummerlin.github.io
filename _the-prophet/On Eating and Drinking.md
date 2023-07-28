@@ -1,6 +1,7 @@
 ---
 title: On Eating and Drinking
 category: the-prophet
+order: 6
 ---
 Then an old man, a keeper of an inn, said, Speak to us of **_Eating and Drinking_**.
 

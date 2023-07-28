@@ -1,6 +1,7 @@
 ---
 title: On Joy and Sorrow
 category: the-prophet
+order: 8
 ---
 Then a woman said, Speak to us of **_Joy and Sorrow_**.
 

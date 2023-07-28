@@ -1,6 +1,7 @@
 ---
 title: On Laws
 category: the-prophet
+order: 13
 ---
 Then a lawyer said, But what of our **_Laws_**, master?
 

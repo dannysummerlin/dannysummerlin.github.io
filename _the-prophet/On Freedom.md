@@ -1,6 +1,7 @@
 ---
 title: On Freedom
 category: the-prophet
+order: 14
 ---
 And an orator said, Speak to us of **_Freedom_**.
 

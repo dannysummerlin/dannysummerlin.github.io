@@ -1,6 +1,7 @@
 ---
 title: On Work
 category: the-prophet
+order: 7
 ---
 Then a ploughman said, Speak to us of **_Work_**.
 

@@ -1,6 +1,7 @@
 ---
 title: On Marriage
 category: the-prophet
+order: 3
 ---
 Then Almitra spoke again and said, And what of **_Marriage_** master?
 

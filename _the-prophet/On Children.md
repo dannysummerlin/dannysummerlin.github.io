@@ -1,6 +1,7 @@
 ---
 title: On Children
 category: the-prophet
+order: 4
 ---
 And a woman who held a babe against her bosom said, Speak to us of **_Children_**.
 

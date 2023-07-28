@@ -1,6 +1,7 @@
 ---
 title: On Clothes
 category: the-prophet
+order: 10
 ---
 And the weaver said, Speak to us of **_Clothes_**.
 

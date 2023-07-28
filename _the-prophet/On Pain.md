@@ -1,6 +1,7 @@
 ---
 title: On Pain
 category: the-prophet
+order: 16
 ---
 And a woman spoke, saying, Tell us of **_Pain_**.
 
