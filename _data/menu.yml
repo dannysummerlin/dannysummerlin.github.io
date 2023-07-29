@@ -1,13 +1,17 @@
 entries:
   - title: home
     url: /
-  - title: econ
-    url: /economics
+  - title: culture
+    collection_list:
+      collection: culture
+  - title: programming
+    collection_list:
+      collection: programming
+  - title: projects
+    collection_list:
+      collection: projects
   - title: the prophet by chapter
     collection_list:
       collection: the-prophet
       order_by: order
       sort_order: asc
-  - title: projects
-    collection_list:
-      collection: projects

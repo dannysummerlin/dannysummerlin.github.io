@@ -17,10 +17,14 @@ remote_theme: dannysummerlin/some-style-please
 markdown: kramdown
 collections:
   the-prophet:
-    output: false
+    output: true
     sort_by: order
   projects:
-    output: false
+    output: true
+  culture:
+    output: true
+  programming:
+    output: true
 plugins:
   - jekyll-feed
 
