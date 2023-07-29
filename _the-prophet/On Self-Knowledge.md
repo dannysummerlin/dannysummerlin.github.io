@@ -1,6 +1,7 @@
 ---
 title: On Self-Knowledge
 category: the-prophet
+order: 17
 ---
 And a man said, Speak to us of **_Self-Knowledge_**.
 

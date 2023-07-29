@@ -1,6 +1,7 @@
 ---
 title: On Beauty
 category: the-prophet
+order: 25
 ---
 And a poet said, Speak to us of **_Beauty_**.
 

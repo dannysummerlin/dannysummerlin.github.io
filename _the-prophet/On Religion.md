@@ -1,6 +1,7 @@
 ---
 title: On Religion
 category: the-prophet
+order: 26
 ---
 And an old priest said, Speak to us of **_Religion_**.
 

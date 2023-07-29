@@ -3,16 +3,11 @@ entries:
     url: /
   - title: econ
     url: /economics
-  - title: the prophet
-    url: /the-prophet
-  - title: the prophet chapters
+  - title: the prophet by chapter
     collection_list:
       collection: the-prophet
       order_by: order
       sort_order: asc
   - title: projects
-    entries:
-      - title: Salesforce Navigator for Lightning
-        url: https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh
-      - title: Power BI Navigator
-        url: https://chrome.google.com/webstore/detail/power-bi-navigator/cbmjohnaegbagpbbjcmklpebfpilhjab
+    collection_list:
+      collection: projects

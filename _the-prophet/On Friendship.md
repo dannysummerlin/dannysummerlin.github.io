@@ -1,6 +1,7 @@
 ---
 title: On Friendship
 category: the-prophet
+order: 19
 ---
 And a youth said, Speak to us of **_Friendship_**.
 

@@ -1,6 +1,7 @@
 ---
 title: On Teaching
 category: the-prophet
+order: 18
 ---
 Then said a teacher, Speak to us of **_Teaching_**.
 

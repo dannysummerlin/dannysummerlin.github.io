@@ -1,6 +1,7 @@
 ---
 title: On Time
 category: the-prophet
+order: 21
 ---
 And an astronomer said, Master, what of **_Time_**?
 

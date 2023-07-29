@@ -1,6 +1,7 @@
 ---
 title: On Pleasure
 category: the-prophet
+order: 24
 ---
 Then a hermit, who visited the city once a year, came forth and said, Speak to us of **_Pleasure_**.
 

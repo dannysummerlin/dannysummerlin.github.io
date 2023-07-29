@@ -1,6 +1,7 @@
 ---
 title: On Good and Evil
 category: the-prophet
+order: 22
 ---
 And one of the elders of the city said, Speak to us of **_Good and Evil_**.
 

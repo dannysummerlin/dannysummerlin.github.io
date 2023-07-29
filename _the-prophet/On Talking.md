@@ -1,6 +1,7 @@
 ---
 title: On Talking
 category: the-prophet
+order: 20
 ---
 And then a scholar said, Speak of **_Talking_**.
 

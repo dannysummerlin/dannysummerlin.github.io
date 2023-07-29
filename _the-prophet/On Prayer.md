@@ -1,6 +1,7 @@
 ---
 title: On Prayer
 category: the-prophet
+order: 23
 ---
 Then a priestess said, Speak to us of **_Prayer_**.
 

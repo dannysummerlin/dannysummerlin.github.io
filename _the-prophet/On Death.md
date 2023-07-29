@@ -1,6 +1,7 @@
 ---
 title: On Death
 category: the-prophet
+order: 27
 ---
 Then Almitra spoke, saying, We would ask now of **_Death_**.
 
