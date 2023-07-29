@@ -1,5 +1,6 @@
-# Power BI Navigator
-
+---
+title: Power BI Navigator
+---
 An easier way to navigate Power BI! This extension helps you get to any workspace, dataflow, or dataset more quickly, and adds some color back into Power BI.
 
 Open the Navigator and

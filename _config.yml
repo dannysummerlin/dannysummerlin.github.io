@@ -29,8 +29,10 @@ plugins:
   - jekyll-feed
 
 defaults:
-  values:
-    layout: "page"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

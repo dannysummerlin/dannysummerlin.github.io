@@ -1,4 +1,6 @@
-# Salesforce Navigator for Lightning
+---
+title: Salesforce Navigator for Lightning
+---
 **[Available on Chrome Web Store now](https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh)**
 
 ## Now supports Lightning
