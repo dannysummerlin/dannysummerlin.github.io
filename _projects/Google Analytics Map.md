@@ -1,3 +1,6 @@
+---
+title: Google Analytics Map - UA to GA4
+---
 (from [Google](https://developers.google.com/analytics/devguides/migration/api/reporting-ua-to-ga4-dims-mets))
 
 | Section | Type | Label | Universal Analytics | Google Analytics 4 |
