@@ -1,3 +1,7 @@
+---
+title: Diversity, or Seeing in 3D
+category: culture
+---
 # Diversity, or Seeing in 3D
 
 May 18, 2019
