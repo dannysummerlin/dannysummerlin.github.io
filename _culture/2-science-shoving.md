@@ -2,7 +2,7 @@
 title: Chapter 2 - Science Shoving
 category: culture
 ---
-[prev](1-cultivation.md) | [next](3-irrigation.md)
+[prev](1-cultivation) | [next](3-irrigation)
 
 “:CONCERN:” al said, and Captain Garcia went rigid. She began to ask al what the concern was, but I was already pulling up the latest data from the detonations even as Dr. Musa and Lewis looked at me, and then each other. On my screen something like a flower bloomed - a terrible, destructive blossom that was our only hope. I had had the final say in the deployment of the devices that we had brought clustered around the stem of the UNS Herald and then deployed like a dandelion blown in the wind (using flower metaphors helps me cope with the anxiety)(I like flowers, my first job was in a florist shop) out from the stem of the ship. After initial distribution al and I had poured over the positions, nudging those horrible seeds into position with the positioning jets on their drones. At the scale we were operating at precision was a matter of decameters, but still, measure twice, cut once - and what a cut it would be.
 
