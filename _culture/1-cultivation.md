@@ -2,7 +2,7 @@
 title: Chapter 1 - Cultivation
 category: culture
 ---
-[next](2-science-shoving.md)
+[next](2-science-shoving)
 
 If you could hear in the vacuum, it would have sounded like God’s own thunder. In the span of sixty seconds the majority of Earth’s nuclear warheads detonated, creating the largest shaped charge explosion our corner of the universe is every likely to see. I was very glad to be at a comfortable distance observing. After all, that is what I was here to do, observe - they don’t let minor UN representatives get flirty with detonation buttons. Not even when we ask nicely.
 
