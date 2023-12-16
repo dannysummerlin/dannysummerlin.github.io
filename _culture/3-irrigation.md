@@ -2,7 +2,7 @@
 title: Chapter 3 - Irrigation
 categories: culture
 ---
-[prev](2-science-shoving.md) | [next](4-up-from-the-deep.md)
+[prev](2-science-shoving) | [next](4-up-from-the-deep)
 
 It had been a wild year. Captain Garcia had no interest in media appearances, Dr. Musa was too smart, and my old roommate Dr. Burns wanted to be on TV about as much as, well, they had wanted to be my roommate. That left little old me to be the voice of the Herald, explaining all the details of our fateful trip to the late night talk shows, midday talk shows, morning talk shows, and anytime podcasts. The details I understood that is, which was honestly enough - most people just wanted to hear about the big explosions, which had been pretty impressive. They even generated an al from the library of Oprah footage on hand and I had the weirdest interview of my life - I still didn’t jump on the couch though. I think an elementary school in the Midwest even got renamed after me, they needed to get rid of a Confederate general and I was as good as the next Herald crew member.
 
