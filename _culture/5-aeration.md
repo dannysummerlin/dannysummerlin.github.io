@@ -1,7 +1,9 @@
-—-
-title: Underground
+-—-
+title: Aeration
 categories: rocks-in-space
-—-
+—--
+[prev](4-up-from-the-deep)
+
 Billions of years ran under my fingertips as I held my hand against the wall, circling the chamber I would call home for the next month (What had Tea seen? How long had it been alone, or surrounded in the Oort cloud?). The miners had cleared the first true hab on Tea with skill, taking pride in knowing this would be the first home for humanity beyond Earth. These smooth walls, carefully checked dimensions, and carefully routed wiring and plumbing runs would be covered over by some interior cladding later in Tea’s life, but for now the raw beauty of their work was plain and perfect (I wasn’t very good at masking things, I saw no reason these walls should be)(but that might be why my friends don’t ask me for interior design advice).
 
 I was still getting used to the next to nothing gravity of Tea. The habs were being built with the ceiling inward, toward the center of the rock, but until the Tea was really spun up, we were on the float, so rooms had to work without any orientation too. They had just started using the cleared stone that didn’t have any valuable ore in it as a sort of mass drive, flinging it off Tea at just the right angle to give us some angular momentum. It was a bit like flinging salt over your shoulder and waiting for it to turn you around, but with no friction and plenty of salt, over time we would start to spin and up and down would mean something again (I really was missing a little bit of g, funny what you take for granted).
