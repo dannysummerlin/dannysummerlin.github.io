@@ -1,7 +1,7 @@
--—-
+---
 title: Aeration
 categories: rocks-in-space
-—--
+---
 [prev](4-up-from-the-deep)
 
 Billions of years ran under my fingertips as I held my hand against the wall, circling the chamber I would call home for the next month (What had Tea seen? How long had it been alone, or surrounded in the Oort cloud?). The miners had cleared the first true hab on Tea with skill, taking pride in knowing this would be the first home for humanity beyond Earth. These smooth walls, carefully checked dimensions, and carefully routed wiring and plumbing runs would be covered over by some interior cladding later in Tea’s life, but for now the raw beauty of their work was plain and perfect (I wasn’t very good at masking things, I saw no reason these walls should be)(but that might be why my friends don’t ask me for interior design advice).
