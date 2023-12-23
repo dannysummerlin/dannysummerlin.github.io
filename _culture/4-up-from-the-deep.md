@@ -3,6 +3,7 @@ title: Chapter 4 - Up From the Deep
 categories: culture
 ---
 [prev](3-irrigation)
+[next](5-aeration)
 
 I don’t know how I keep ending up here. I did well in school, well enough anyways. Good extra-curriculars, decent test scores. We did have to move half way through high school because the storms had gotten too bad, but most of the Bayou did so that doesn’t set me apart. Higher school, where they stuck all the young bodies they didn’t have enough jobs for in the region, went by without much excitement. Sure, I had been in a few fights, but then we were all pretty on edge, not much of a bright future in coastal Mississippi, especially with all the refugees from Florida taking up space. Since the river became more of a bay we were all squeezed in a bit tighter, and that tends to bring out the worst in people.
 
